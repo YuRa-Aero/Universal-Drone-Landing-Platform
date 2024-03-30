@@ -15,6 +15,7 @@
 * Расчитана себестоимость с учётом производства
 * Оформлена документация в формате PDF
 ## *Для более детального ознакомления с проектом см. "Документация.pdf" - 33стр.*
-![alt text](https://github.com/YuRa-Aero/Universal-Drone-Landing-Platform/blob/main/STL/photo_2024-03-30_16-30-47.jpg?raw=true)
 ![alt text](https://github.com/YuRa-Aero/Universal-Drone-Landing-Platform/blob/main/STL/photo_2024-03-30_16-11-57.jpg?raw=true)
+![alt text](https://github.com/YuRa-Aero/Universal-Drone-Landing-Platform/blob/main/STL/photo_2024-03-30_16-31-47.jpg?raw=true)
+
 
