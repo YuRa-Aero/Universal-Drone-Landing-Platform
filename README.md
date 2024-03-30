@@ -1,4 +1,7 @@
 # Универсальная посадочная платформа для дронов
+
+![alt text](https://github.com/YuRa-Aero/Universal-Drone-Landing-Platform/blob/main/STL/photo_2024-03-30_16-30-59.jpg?raw=true)
+
 В данном проекте реализуется полная разработка готового изделия по техническому заданию с нуля в сжатый срок - 5 дней.
 
 ТЗ *(подробнее см "ТЗ.pdf)* : разработать посадочную платформу для дронов различных размеров с фиксацией квадрокоптера после посадки
@@ -12,4 +15,6 @@
 * Расчитана себестоимость с учётом производства
 * Оформлена документация в формате PDF
 ## *Для более детального ознакомления с проектом см. "Документация.pdf" - 33стр.*
+![alt text](https://github.com/YuRa-Aero/Universal-Drone-Landing-Platform/blob/main/STL/photo_2024-03-30_16-30-47.jpg?raw=true)
+![alt text](https://github.com/YuRa-Aero/Universal-Drone-Landing-Platform/blob/main/STL/photo_2024-03-30_16-11-57.jpg?raw=true)
 
