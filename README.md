@@ -1,5 +1,7 @@
 # Универсальная посадочная платформа для дронов
 
+[![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+
 ![alt text](https://github.com/YuRa-Aero/Universal-Drone-Landing-Platform/blob/main/STL/photo_2024-03-30_16-30-59.jpg?raw=true)
 
 В данном проекте реализуется полная разработка готового изделия по техническому заданию с нуля в сжатый срок - 5 дней.
